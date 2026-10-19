@@ -1,0 +1,16 @@
+.tools/
+/rozwiazania/
+/materiałyModuły.md
+/upel
+build/
+__pycache__/
+*.obj
+*.o
+*.pcm
+*.ifc
+*.exe
+*.pdb
+*.ilk
+*.lib
+*.exp
+raport.csv

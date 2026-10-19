@@ -1,0 +1,12 @@
+pokaz
+dodaj 10
+pokaz
+dodaj 20
+dodaj -6
+pokaz
+pokaz
+wyczysc
+pokaz
+dodaj -5
+pokaz
+koniec
